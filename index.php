@@ -1,3 +1,3 @@
 <?php
-echo "Hello PipeOps!";
+echo "Welcome to PHP on PipeOps!";
 ?>
