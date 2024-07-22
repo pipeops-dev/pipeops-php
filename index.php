@@ -53,7 +53,7 @@
       </section>
     </main>
     <footer>
-      <p>© PipeOps -<a href="https://pipeops.io"> PipeOps.io</a> -
+      <p>© PipeOps -<a href="https://pipeops.io">PipeOps.io</a> -
         <a target="_blank" href="/">Github</a> -
         <a target="_blank" href="https://discord.gg/PQscGtfFD2">Discord</a> -
         <a target="_blank" href="https://join.slack.com/t/pipeopscommunity/shared_invite/zt-23gmjrl0k-Pzm2cBgIMTsUu5Az73PYKg">Slack</a> -
