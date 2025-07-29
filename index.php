@@ -56,7 +56,7 @@
       <p>© PipeOps -<a href="https://pipeops.io">PipeOps.io</a> -
         <a target="_blank" href="/">Github</a> -
         <a target="_blank" href="https://discord.gg/PQscGtfFD2">Discord</a> -
-        <a target="_blank" href="https://join.slack.com/t/pipeopscommunity/shared_invite/zt-23gmjrl0k-Pzm2cBgIMTsUu5Az73PYKg">Slack</a> -
+        <a target="_blank" href="https://join.slack.com/t/pipeopscommunity/shared_invite/zt-36epz9i8k-p01_WcPQudJmabuF_NqD5Q">Slack</a> -
         <a target="_blank" href="https://blog.pipeops.io/">Blog</a>
       </p>
     </footer>
