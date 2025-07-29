@@ -33,7 +33,7 @@
               <img src="images/bookmark.svg" />
             <h2>Tutorials</h2>
             </div>
-            <p>How-tos from the basic to most advanced</p>
+            <p>How-tos from the basic to the most advanced</p>
           </a>
           <a target="_blank" href="https://join.slack.com/t/pipeopscommunity/shared_invite/zt-23gmjrl0k-Pzm2cBgIMTsUu5Az73PYKg" class="card">
             <div>
