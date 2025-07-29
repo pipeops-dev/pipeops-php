@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>PipeOps Template</title>
+    <title>PipeOps Php Template</title>
     <link rel="stylesheet" href="css/app.css" />
   </head>
   <body>
@@ -13,7 +13,7 @@
         <h1>Your <img src="images/php-1.svg" alt="PHP logo"/> deployment is successful 🎉</h1>
         <p>
           Now that your deployment is successful, there's a whole lot
-          more you can explore on PipeOps.
+          You can explore on PipeOps.
         </p>
       </section>
       <section>
