@@ -13,7 +13,7 @@
         <h1>Your <img src="images/php-1.svg" alt="PHP logo"/> deployment is successful 🎉</h1>
         <p>
           Now that your deployment is successful, there's a whole lot
-          You can explore on PipeOp.
+          You can explore on PipeOps.
         </p>
       </section>
       <section>
