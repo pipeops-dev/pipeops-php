@@ -1,7 +1,11 @@
-FROM php:8.2-apache
+# Pinned to a release patched for CVE-2026-109618 / CVE-2026-109619 (php2shell)
+FROM php:8.2.35-apache
 
 # Set the working directory
 WORKDIR /var/www/html
+
+# Defense in depth for CVE-2026-109619: disable session upload progress tracking
+RUN echo "session.upload_progress.enabled = Off" > /usr/local/etc/php/conf.d/zz-security.ini
 
 # Copy application files
 COPY . /var/www/html/
